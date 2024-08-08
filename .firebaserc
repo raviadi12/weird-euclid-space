@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "unik-3f23e"
+  },
+  "targets": {
+    "unik-3f23e": {
+      "hosting": {
+        "3dgame": [
+          "3dgameravi"
+        ],
+        "mainpage": [
+          "fm-ravi"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

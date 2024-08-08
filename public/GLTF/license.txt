@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snowboarder Onirix
+* source:	https://sketchfab.com/3d-models/snowboarder-onirix-b8a85b8427c64d098ca598188baca93c
+* author:	onirix (https://sketchfab.com/onirix)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snowboarder Onirix" (https://sketchfab.com/3d-models/snowboarder-onirix-b8a85b8427c64d098ca598188baca93c) by onirix (https://sketchfab.com/onirix) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
